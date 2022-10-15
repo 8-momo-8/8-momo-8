@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @try-ToUnderstand
 - 👀 I’m interested in ..."AI","cyberSecurity"....
 - 🌱 I’m currently learning ...Artificial Intelligence in the university
-- 💞️ I’m looking to collaborate on ai projects
+- 💞️ I’m looking to collaborate in ai projects
 - 📫 How to reach me ..."medo349medo@gmail.com"
 
 <!---
