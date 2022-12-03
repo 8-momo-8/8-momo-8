@@ -1,4 +1,4 @@
-<a>  <img src="https://komarev.com/ghpvc/?username=8-momo-8&label=Profile%20views&color=813d9c&style=plastic" alt="8-momo-8" />  </a>
+<img align="right" src="https://komarev.com/ghpvc/?username=8-momo-8&label=Profile%20views&color=813d9c&style=plastic" alt="8-momo-8" /> 
 
 <h1 align="center">Hi 👋, I'm Metwally Mohamed</h1>
 <h2 align="center">A passionate developer from EGYPT 🇪🇬</h2>
