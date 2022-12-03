@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8-momo-8&label=Profile%20views&color=813d9c&style=plastic" alt="8-momo-8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8-momo-8" alt="8-momo-8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8-momo-8&theme=nord" alt="8-momo-8" /></a> </p>
 
 - 🔭 I’m currently working in [Google Developer Student Clubs](https://gdsc.community.dev/university-of-pavia/)
 
