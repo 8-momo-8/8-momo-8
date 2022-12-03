@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm @8-momo-8</h1>
+<a>  <img src="https://komarev.com/ghpvc/?username=8-momo-8&label=Profile%20views&color=813d9c&style=plastic" alt="8-momo-8" />  </a>
+
+<h1 align="center">Hi 👋, I'm Metwally Mohamed</h1>
 <h2 align="center">A passionate developer from EGYPT 🇪🇬</h2>
 
 
-<div align=center>
-  
-  <a>  <img src="https://komarev.com/ghpvc/?username=8-momo-8&label=Profile%20views&color=813d9c&style=plastic" alt="8-momo-8" />  </a>
 
+<br>
+
+<div align=center>
    <a> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8-momo-8&theme=nord" alt="8-momo-8" /></a> </a>
   
 </div>
@@ -14,7 +16,7 @@
 <!--- A B O U T   M E --->
 
 <h4 align="leftr">
-  <h2 align="center">🥱 ABOUT ME 🥱</h2>
+  <h2 align="left">🥱 ABOUT ME 🥱</h2>
 <br>
   
   🔭 I’m currently working in [Google Developer Student Clubs](https://gdsc.community.dev/university-of-pavia/)
