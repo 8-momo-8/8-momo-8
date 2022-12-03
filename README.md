@@ -14,7 +14,7 @@
 <!--- A B O U T   M E --->
 
 <h4 align="leftr">
-  <h2 align="center"🥱 ABOUT ME 🥱</h2>
+  <h2 align="center">🥱 ABOUT ME 🥱</h2>
 <br>
   
   🔭 I’m currently working in [Google Developer Student Clubs](https://gdsc.community.dev/university-of-pavia/)
