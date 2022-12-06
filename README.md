@@ -25,7 +25,7 @@
 
   👯 I’m looking to collaborate on **ai projects**
 
-  🤝 I’m looking for help with **Cyper security**
+  🤝 I’m looking for help with **Cyber security**
 
   👨‍💻 All of my projects are available at [https://github.com/8-momo-8](https://github.com/8-momo-8)
 
