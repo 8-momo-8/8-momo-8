@@ -33,20 +33,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/8-momo-8">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=8-momo-8&show_icons=true&theme=radical&count_private=true" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=8-momo-8&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8-momo-8&layout=compact&theme=radical&langs_count=8&hide=roff" alt="Top Languages" />
-</div>
-
----
 
 ## 🤝 Connect With Me
 
@@ -64,14 +50,6 @@
 
 ---
 
-## 🏆 Achievements
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=8-momo-8&theme=discord&column=7&margin-w=15" alt="trophies" />
-  </a>
-</div>
-
----
 
 <div align="center">
   <h3>📚 Latest Blog Posts</h3>
